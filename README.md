@@ -5,7 +5,7 @@ Verifiable Credentials[1] // Blockchain // IPFS // MongoDB
 
 * Highly interoperable 
 
-* Companies can verify the DIDs / Verifiable Credentias (VC) of customers.
+* Companies can verify the DIDs / Verifiable Credentials (VC) of customers.
 
 * DID standardization of W3C.
 
